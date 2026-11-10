@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nexcess-trials/.github/main/images/nexcess-trials-banner-dark-v3.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nexcess-trials/.github/main/images/nexcess-trials-banner-light-v3.png">
-  <img alt="Nexcess Trials" src="https://raw.githubusercontent.com/nexcess-trials/.github/main/images/nexcess-trials-banner-light-v3.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nexcess-trials/.github/main/images/nexcess-trials-banner-dark-v4.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nexcess-trials/.github/main/images/nexcess-trials-banner-light-v4.png">
+  <img alt="Nexcess Trials" src="https://raw.githubusercontent.com/nexcess-trials/.github/main/images/nexcess-trials-banner-light-v4.png">
 </picture>
 
 # :wave: Hi! We're Nexcess
