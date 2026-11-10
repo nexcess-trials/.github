@@ -1,16 +1,19 @@
-![StellarWP](https://github.com/stellarwp/.github/blob/main/images/stellarwp-logo.png#gh-light-mode-only)
-![StellarWP](https://github.com/stellarwp/.github/blob/main/images/stellarwp-logo-white.png#gh-dark-mode-only)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nexcess-trials/.github/main/images/nexcess-trials-banner-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nexcess-trials/.github/main/images/nexcess-trials-banner-light.png">
+  <img alt="Nexcess Trials" src="https://raw.githubusercontent.com/nexcess-trials/.github/main/images/nexcess-trials-banner-light.png">
+</picture>
 
-# :wave: Hi! We're StellarWP
+# :wave: Hi! We're Nexcess
 
-The most trusted plugins and people in WordPress.
+Nexcess stands behind leading WordPress plugins.
 
-[Give](https://givewp.com) | [IconicWP](https://iconicwp.com) | [SolidWP](https://solidwp.com) | [Kadence](https://kadencewp.com) | [LearnDash](https://learndash.com) | [Orderable](https://orderable.com) | [Restrict Content Pro](https://restrictcontentpro.com) | [The Events Calendar](https://theeventscalendar.com)
+[Give](https://www.nexcess.com/software/give/) | [Kadence](https://www.nexcess.com/software/kadence/) | [LearnDash](https://www.nexcess.com/software/learndash/) | [The Events Calendar](https://www.nexcess.com/software/the-events-calendar/) | [Nexcess Plugin Stack](https://www.nexcess.com/software/)
 
 ---
 
-This organization on GitHub is dedicated to hold any Engineering Trials that we conduct on StellarWP, we handle trials in a separate organization to ensure only people that are involved in the hiring process have access to your trial project. 
+This organization holds the engineering trials we run as part of hiring at Nexcess. Trials live in their own organization so only the people involved in your hiring process can see your trial project.
 
-[Visit our carrers page for positions you can apply to.](https://jobs.jobvite.com/stellar)
+[See open positions on our careers page.](https://www.nexcess.com/careers/)
 
-If you are looking for any StellarWP projects please check out [the main GitHub Organization for StellarWP](https://github.com/stellarwp).
+Looking for our open source projects? Check out [our main GitHub organization](https://github.com/stellarwp).
